@@ -6,3 +6,71 @@ xhofe/alist:latest
 xiaoyaliu/alist
 python
 tomcat
+python
+#用于Python应用开发的基础镜像。
+node
+#Node.js环境，适用于JavaScript后端开发。
+openjdk
+#Java开发环境。
+ruby
+#Ruby开发环境。
+golang
+#Go语言环境。
+php
+#PHP开发环境。
+dotnet
+#.NET Core开发环境。
+rust
+#Rust编程语言环境。
+#Web服务器与应用服务器:
+
+nginx
+#高性能HTTP和反向代理服务器。
+apache
+#Apache HTTP服务器。
+tomcat
+#Java应用服务器。
+#数据库:
+
+mysql
+#MySQL关系型数据库。
+postgres
+#PostgreSQL关系型数据库。
+mongodb
+#MongoDB NoSQL数据库。
+redis
+#Redis内存数据结构存储。
+cassandra
+#Cassandra分布式数据库系统。
+#容器编排与CI/CD:
+
+jenkins
+#Jenkins持续集成和部署服务器。
+gitlab-runner
+#GitLab CI/CD Runner。
+docker
+#Docker官方镜像，用于构建Docker相关的服务或应用。
+#开发工具与IDE:
+
+#vscode
+#Visual Studio Code远程开发容器。
+jetbrains/java
+#用于运行JetBrains系列IDE的基础镜像。
+#微服务与API框架:
+
+openjdk/jetty
+#Jetty应用服务器，常用于Java微服务。
+springboot
+#Spring Boot应用的基础镜像。
+quarkus
+#Quarkus快速云原生Java框架。
+node-red
+#可视化编程工具，适合物联网应用开发。
+#大数据与AI:
+
+tensorflow/tensorflow
+#TensorFlow机器学习库。
+apache/spark
+#Apache Spark大数据处理框架。
+apache/hadoop
+#Hadoop大数据处理框架。
