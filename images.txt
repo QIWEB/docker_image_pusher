@@ -7,6 +7,7 @@ xiaoyaliu/alist
 python
 tomcat
 python
+yaonew/mmplayer
 #用于Python应用开发的基础镜像。
 node
 #Node.js环境，适用于JavaScript后端开发。
